@@ -134,9 +134,22 @@ dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3400784728#note
 dimwishlist:item=3745990145&perks=893526893,1087426260,247725512,3400784728#notes: not reload masterwork|tags:pve
 
 //Ignition  Code
-dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,1546637391#notes: velocity or blast radius masterwork|tags:pve
-dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391#notes: velocity or blast radius masterwork|tags:pve
-dimwishlist:item=304659313&perks=3525010810,3301904089,2869569095,1546637391#notes: worse than ambitious assassin -velocity or blast radius masterwork|tags:pve
-dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes: worse than ambitious assassin -velocity or blast radius masterwork|tags:pve
-dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes: velocity, blast radius or handling masterwork|tags:pvp
-dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes: velocity, blast radius or handling masterwork|tags:pvp
+dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,1546637391#notes: velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=981914802,3301904089,2010801679,1546637391#notes: velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=3525010810,3301904089,2869569095,1546637391#notes: worse than ambitious assassin -velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=981914802,3301904089,2869569095,1546637391#notes: worse than ambitious assassin -velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=3525010810,3032599245,2869569095,1546637391#notes: velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=981914802,3032599245,2869569095,1546637391#notes: velocity or handling masterwork|tags:pve
+dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,1546637391#notes: velocity or handling masterwork|tags:pvp
+dimwishlist:item=304659313&perks=981914802,3301904089,3161816588,1546637391#notes: velocity or handling masterwork|tags:pvp
+
+//Uzume RR4
+dimwishlist:item=2065081837&perks=1840239774,106909392,957782887,1546637391#notes: range or handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=1482024992,106909392,957782887,1546637391#notes: handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=4090651448,106909392,957782887,1546637391#notes: handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=1840239774,106909392,957782887,3038247973#notes: range or handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=1482024992,106909392,957782887,3038247973#notes: handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=4090651448,106909392,957782887,3038247973#notes: handling masterwork|tags:pvp
+dimwishlist:item=2065081837&perks=1840239774,1087426260,3400784728,1546637391#notes: any masterwork|tags:pve
+dimwishlist:item=2065081837&perks=1482024992,1087426260,3400784728,1546637391#notes: any masterwork|tags:pve
+dimwishlist:item=2065081837&perks=4090651448,1087426260,3400784728,1546637391#notes: any masterwork|tags:pve
